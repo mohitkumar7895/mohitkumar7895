@@ -1,16 +1,49 @@
-## Hi there 👋
+### Hi there 👋 I'm Mohit Kumar
 
+🚀 Passionate **Frontend Developer** with a strong foundation in the **MERN stack** and a knack for creating clean, responsive, and user-friendly web interfaces.
 
-**mohitkumar7895/mohitkumar7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)** at Dr. MPS Group of Institutions, Agra (2022–2025)
+- 💼 Interning at **NinePages TechSolution Pvt Ltd.**, contributing to frontend development using React.js
+- 🌱 Currently learning advanced **React**, **GraphQL**, and refining backend skills with **Node.js**, **Express**, and **MongoDB**
+- 🔍 Looking to collaborate on real-world projects that involve **frontend design**, **API development**, and **responsive UIs**
 
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Redux Toolkit, Tailwind CSS, Styled-components, React Router, Axios
+- **Backend:** Node.js, Express.js, GraphQL
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman, Nodemon, npm, MongoDB Compass, Mongo Shell
+- **Areas of Interest:** Frontend Design, API Development, Responsive Web Design
+
+---
+
+### 💼 Projects
+
+#### 🛒 E-Commerce Platform
+- Features: Login panel, user dashboard, testimonials, cart management, order tracking, product listings, filters, authentication
+- Tech Used: React.js, Tailwind CSS, Shadcn, MongoDB, Express.js, Node.js, Axios  
+- 🗓️ Duration: March 2025 – Present
+
+#### 🏨 Hotel Booking Web Application
+- Description: A responsive hotel booking app with search filters, dynamic listings, and smooth UI transitions
+- Tech Used: React.js, Tailwind CSS, Shadcn UI, HTML, CSS, JavaScript  
+- 🗓️ Duration: April 2025
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [mohitporwal596@gmail.com](mailto:mohitporwal596@gmail.com)  
+- 📞 Phone: +91 7895094129  
+- 💻 GitHub: [github.com/mohitkumar7895](https://github.com/mohitkumar7895)  
+- 💼 LinkedIn: [linkedin.com/in/mohit-kumar7895](https://www.linkedin.com/in/mohit-kumar7895/)
+
+---
+
+⚡ Fun fact: I love transforming designs into interactive and seamless digital experiences!
