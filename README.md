@@ -23,20 +23,6 @@
 
 ---
 
-### 💼 Projects
-
-#### 🛒 E-Commerce Platform
-- Features: Login panel, user dashboard, testimonials, cart management, order tracking, product listings, filters, authentication
-- Tech Used: React.js, Tailwind CSS, Shadcn, MongoDB, Express.js, Node.js, Axios  
-- 🗓️ Duration: March 2025 – Present
-
-#### 🏨 Hotel Booking Web Application
-- Description: A responsive hotel booking app with search filters, dynamic listings, and smooth UI transitions
-- Tech Used: React.js, Tailwind CSS, Shadcn UI, HTML, CSS, JavaScript  
-- 🗓️ Duration: April 2025
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: [mohitporwal596@gmail.com](mailto:mohitporwal596@gmail.com)  
